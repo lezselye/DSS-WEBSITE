@@ -1,4 +1,8 @@
 body {
+  margin: 0;
+  padding: 0;
+}
+body {
   background-color: #f0f4f8;
   font-family: Arial, sans-serif;
   padding: 40px;
@@ -101,12 +105,6 @@ footer {
 }
 html {
   scroll-behavior: smooth;
-}
-.banner {
-  text-align: center;
-  padding: 60px 20px;
-  background: linear-gradient(to right, #003366, #0055a5);
-  color: white;
 }
 .banner {
   width: 100%;
